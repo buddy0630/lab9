@@ -1,4 +1,4 @@
-var a = ["javascript", "programming", "hangman", "developer", "browser"];
+var a = ["phone", "apple", "window", "duck", "bank"];
 var b = 5;
 
 var c = a[Math.floor(Math.random() * a.length)];
