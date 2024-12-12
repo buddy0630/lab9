@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background: url('Untitled.png') no-repeat center center fixed;
+    background-size: cover;
+    color: white;
+}
+.container {
+    max-width: 500px;
+    margin-top: 100px;
+    background: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    border-radius: 10px;
+}
+h1 {
+    font-size: 3em;
+    color: #900d09;
+}
+.btn {
+    background-color: #900d09;
+    color: black;
+}
+.btn:hover {
+    background-color: #900d0970;
+    color: black;
+}
+input[type="text"] {
+    background: rgba(255, 255, 255, 0.8);
+    color: black;
+}
+#message {
+    color: #900d09;
+}
